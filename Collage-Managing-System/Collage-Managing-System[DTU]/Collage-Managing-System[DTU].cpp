@@ -1,13 +1,16 @@
 #include <iostream>
 #include<string>
-#include "Teachers.h"
-#include"Students.h"
+#include"Teacher.h"
+#include"Student.h"
+
+
+
 using namespace std;
 
 int main()
 {
 
-	
+
 	Students* head = NULL;
 	Teachers* thead = NULL;
 
@@ -15,7 +18,7 @@ int main()
 	thead->display(thead);
 
 
-	head->CreateStudentList(head, 1213089, "wahid", "Ali", "Cairo",3.9,2);
+	head->CreateStudentList(head, 1213089, "wahid", "Ali", "Cairo", 3.9, 2);
 
 	head->addStudent(head, 1213089, "wahid", "Ali", "Cairo", 3.9, 2);
 	head->addStudent(head, 1213089, "wahid", "Ali", "Cairo", 3.9, 2);

@@ -15,21 +15,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="OOP_C++.cpp">
+    <ClCompile Include="Collage-Managing-System[DTU].cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Teachers.cpp">
+    <ClCompile Include="..\..\Collage-Managing-System\Collage-Managing-System\Teacher.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Students.cpp">
+    <ClCompile Include="..\..\Collage-Managing-System\Collage-Managing-System\Students.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Teachers.h">
+    <ClInclude Include="Teacher.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Students.h">
+    <ClInclude Include="Student.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -4,13 +4,13 @@ using namespace std;
 class Teachers
 {
 private:
-	int id ;
+	int id;
 	string FirstName;
 	string LastName;
 	string Addres;
 	string department;
 	const string jobTitel = "Teacher";
-		
+
 
 protected:
 	Teachers* next = NULL;
@@ -20,14 +20,14 @@ public:
 	//	this->setid(ID);
 	//}
 
-	~Teachers() { cout << "Deconstractored object..." <<this->id; }
+	~Teachers() { cout << "Deconstractored object..." << this->id; }
 
 	void getinfo();
 	void CreateTeachersList(Teachers*&, int, string, string, string, string);
 	void AddTeacher(Teachers*&, int, string, string, string, string);
 	void display(Teachers*&);
-	
-	
+
+
 
 
 };

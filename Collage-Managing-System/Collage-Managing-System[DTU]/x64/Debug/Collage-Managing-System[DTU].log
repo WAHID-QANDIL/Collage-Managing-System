@@ -1,0 +1,13 @@
+﻿  Students.cpp
+  Teacher.cpp
+  Collage-Managing-System[DTU].cpp
+C:\Users\hosam\source\repos\Collage-Managing-System[DTU]\Collage-Managing-System[DTU]\Collage-Managing-System[DTU].cpp(21,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hosam\source\repos\Collage-Managing-System[DTU]\Collage-Managing-System[DTU]\Collage-Managing-System[DTU].cpp(23,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hosam\source\repos\Collage-Managing-System[DTU]\Collage-Managing-System[DTU]\Collage-Managing-System[DTU].cpp(24,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hosam\source\repos\Collage-Managing-System[DTU]\Collage-Managing-System[DTU]\Collage-Managing-System[DTU].cpp(25,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hosam\source\repos\Collage-Managing-System[DTU]\Collage-Managing-System[DTU]\Collage-Managing-System[DTU].cpp(26,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hosam\source\repos\Collage-Managing-System[DTU]\Collage-Managing-System[DTU]\Collage-Managing-System[DTU].cpp(27,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hosam\source\repos\Collage-Managing-System[DTU]\Collage-Managing-System[DTU]\Collage-Managing-System[DTU].cpp(28,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hosam\source\repos\Collage-Managing-System[DTU]\Collage-Managing-System[DTU]\Collage-Managing-System[DTU].cpp(29,63): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  Collage-Managing-System[DTU].vcxproj -> C:\Users\hosam\source\repos\Collage-Managing-System[DTU]\x64\Debug\Collage-Managing-System[DTU].exe

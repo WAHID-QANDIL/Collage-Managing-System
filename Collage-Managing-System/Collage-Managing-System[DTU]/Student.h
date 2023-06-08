@@ -15,26 +15,26 @@ private:
 protected:
 	int ID;
 	Students* next = NULL;
-	
+
 
 public:
-	Students(){}
-	Students(int id,string fname, string lname, string add, int level, float gpa) {
+	Students() {}
+	Students(int id, string fname, string lname, string add, int level, float gpa) {
 		this->ID = id;
 		this->FirstName = fname;
 		this->LastName = lname;
 		this->Addres = add;
 		this->Level = level;
 		this->Gpa = gpa;
-	
+
 	}
-	~Students(){}
+	~Students() {}
 
 	void setInfo(int, string, string, string);
 	void setGPALevel(Students*&, int, int, float);
-	void infoModify(Students*& head,int, string, string, string);
+	void infoModify(Students*& head, int, string, string, string);
 	void addStudent(Students*&, int, string, string, string, float, int);
-	void CreateStudentList(Students*&,int,string,string,string,float,int);
+	void CreateStudentList(Students*&, int, string, string, string, float, int);
 	void getinfo();
 	void display(Students*&);
 
